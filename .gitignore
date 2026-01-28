@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+.env
+chroma/
+
+temp.py
+.python-version
+.DS_Store
+vit_disease/vit-plant-disease/
